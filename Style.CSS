@@ -10,7 +10,7 @@ body {
 
 .hero-image {
     /* The image used */
-    background-image: url("./basketball-court-.jpg");
+    background-image: url("../basketball-court-.jpg");
 
     /* Set a specific height */
     height: 50%;
